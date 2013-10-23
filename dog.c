@@ -1,4 +1,3 @@
-puppy
 canine
 wolf
 bark

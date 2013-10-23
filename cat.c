@@ -1,4 +1,3 @@
-meow
 roar
 lion
 tiger
