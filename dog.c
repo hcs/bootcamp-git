@@ -9,3 +9,5 @@ pikachu
 charmander
 squirtle
 bulbasaur
+charmelon
+charizard
