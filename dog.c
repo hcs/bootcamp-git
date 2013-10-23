@@ -11,3 +11,5 @@ squirtle
 bulbasaur
 charmelon
 charizard
+ivysaur
+venasaur
