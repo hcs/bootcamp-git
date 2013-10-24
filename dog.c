@@ -3,7 +3,6 @@ canine
 wolf
 bark
 bow wow
-<<<<<<< HEAD
 dalmation AND pikachu !!!
 charmander
 squirtle
