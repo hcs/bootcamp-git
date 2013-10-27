@@ -3,5 +3,13 @@ canine
 wolf
 bark
 bow wow
-BooBoo
-Koa
+BooBoo and pikachu!
+Koa and charmander!
+squirtle
+bulbasaur
+charmelon
+charizard
+ivysaur
+venasaur
+wartortle
+blastoise
