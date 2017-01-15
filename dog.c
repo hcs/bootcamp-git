@@ -3,8 +3,13 @@ canine
 wolf
 bark
 bow wow
-beagle
-corgi
-jack russel
-boxer
-bull dog
+beagle AND pikachu
+corgi AND charmander
+jack russel AND squirtle
+boxer AND bulbasaur
+bull dog AND charmelon
+charizard
+ivysaur
+venasaur
+wartortle
+blastoise
