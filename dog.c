@@ -4,3 +4,4 @@ wolf
 bark
 bow wow
 bone
+beagle
