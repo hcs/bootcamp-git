@@ -6,4 +6,5 @@ leopard
 jaguar
 cheetah
 kitty
-hello
+cat
+wiskers
