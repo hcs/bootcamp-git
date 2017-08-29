@@ -7,3 +7,4 @@ jaguar
 cheetah
 kitty
 hello
+new line
