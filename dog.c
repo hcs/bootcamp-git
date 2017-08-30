@@ -3,4 +3,6 @@ canine
 wolf
 bark
 bow wow
-new line
+labrador
+beagle
+poodle
