@@ -8,3 +8,13 @@ small
 black
 brown
 asdf
+pikachu
+charmander
+squirtle
+bulbasaur
+charmelon
+charizard
+ivysaur
+venasaur
+wartortle
+blastoise
