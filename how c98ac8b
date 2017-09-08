@@ -1,0 +1,107 @@
+[33mcommit 032b4cbd402ee5a5f1af792422fa28710820d2a0[m
+Author: Kenny Yu <yu.kenny124@gmail.com>
+Date:   Wed Oct 23 00:26:15 2013 -0400
+
+    added info.csv
+
+[33mcommit 21c2ab9b6c58f99f2e9aa4e2261bc2baca174df2[m
+Author: Kenny Yu <yu.kenny124@gmail.com>
+Date:   Tue Oct 22 23:27:27 2013 -0400
+
+    update README to point to hcs wiki
+
+[33mcommit 701962d27cbe430fcb068c3f5e39c9bb1ecaf58c[m
+Author: Kenny Yu <yu.kenny124@gmail.com>
+Date:   Mon Oct 21 03:46:25 2013 -0400
+
+    Update README.md
+
+[33mcommit cb20ea93b413a0105a88b01dfa806cdca54cee27[m
+Author: Kenny Yu <yu.kenny124@gmail.com>
+Date:   Mon Oct 21 00:44:34 2013 -0700
+
+    Initial commit
+
+[33mcommit c98ac8bbeb1b13b67c22ea22c4f83026469625c7[m
+Author: Kenny Yu <yu.kenny124@gmail.com>
+Date:   Sat Sep 14 15:18:47 2013 -0400
+
+    mystery4
+
+[33mcommit 4a2e1f2b68ebfa0f20fd6489d959ab1eb0b1af3a[m
+Author: Kenny Yu <yu.kenny124@gmail.com>
+Date:   Sat Sep 14 15:17:35 2013 -0400
+
+    mystery3
+
+[33mcommit ea23a14fd7a5d0fd88314be162ddefebb41dd48f[m
+Author: Kenny Yu <yu.kenny124@gmail.com>
+Date:   Sat Sep 14 15:17:22 2013 -0400
+
+    mystery2
+
+[33mcommit 06aae4b5009d18678014d9cd7c7ee2c1b2bc72a5[m
+Author: Kenny Yu <yu.kenny124@gmail.com>
+Date:   Sat Sep 14 15:17:03 2013 -0400
+
+    mystery1
+
+[33mcommit 4b400465a9f92303545782eb730e8b63867a1996[m
+Author: Kenny Yu <yu.kenny124@gmail.com>
+Date:   Sat Sep 14 15:11:20 2013 -0400
+
+    Adding aliases
+
+[33mcommit ca9321f42559026eb7a22ab8ef7abda5eeb39bda[m
+Author: Kenny Yu <yu.kenny124@gmail.com>
+Date:   Sat Sep 14 15:08:59 2013 -0400
+
+    Added names.txt
+
+[33mcommit d068c7d46d83ca8c081851f7fb83c5a3642044dc[m
+Author: Kenny Yu <yu.kenny124@gmail.com>
+Date:   Sat Sep 14 15:08:05 2013 -0400
+
+    Removed bar.c
+
+[33mcommit f6f79288100300cc082f00b5c476d3c083d29ca1[m
+Author: Kenny Yu <yu.kenny124@gmail.com>
+Date:   Sat Sep 14 15:05:37 2013 -0400
+
+    Add kitty to cat.c
+
+[33mcommit e1ebe64fd62be4182ae5cb6828618df113aa0d21[m
+Author: Kenny Yu <yu.kenny124@gmail.com>
+Date:   Sat Sep 14 15:05:12 2013 -0400
+
+    Added cat
+
+[33mcommit 657231d85bbc1cc8808e410652611f362a2d54bc[m
+Author: Kenny Yu <yu.kenny124@gmail.com>
+Date:   Sat Sep 14 15:04:01 2013 -0400
+
+    Added dog
+
+[33mcommit 8ad8411f01e4a8e7f6272b843cb640122839e7c6[m
+Author: Kenny Yu <yu.kenny124@gmail.com>
+Date:   Sat Sep 14 14:21:47 2013 -0400
+
+    Added goat
+
+[33mcommit 259aae7a270ecba5fe39f64762e52708e6e96255[m
+Author: Kenny Yu <yu.kenny124@gmail.com>
+Date:   Sat Sep 14 14:12:59 2013 -0400
+
+    Added baz
+
+[33mcommit e17d953edcb58a0d735e1f90c638ad3c3bcd05d1[m
+Author: Kenny Yu <yu.kenny124@gmail.com>
+Date:   Sat Sep 14 13:48:08 2013 -0400
+
+    Added lines to bar and foo
+
+[33mcommit 3461acf110c4d43a10deb5744087a21d99616ee0[m
+Author: Kenny Yu <yu.kenny124@gmail.com>
+Date:   Sat Sep 14 13:46:22 2013 -0400
+
+    Initial commit
