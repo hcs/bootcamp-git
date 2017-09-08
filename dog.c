@@ -3,3 +3,17 @@ canine
 wolf
 bark
 bow wow
+chase
+amy
+cody
+amber
+pikachu
+charmander
+squirtle
+bulbasaur
+charmelon
+charizard
+ivysaur
+venasaur
+wartortle
+blastoise
