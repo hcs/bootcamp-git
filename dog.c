@@ -7,3 +7,13 @@ chase
 amy
 cody
 amber
+pikachu
+charmander
+squirtle
+bulbasaur
+charmelon
+charizard
+ivysaur
+venasaur
+wartortle
+blastoise
