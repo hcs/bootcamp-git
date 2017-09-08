@@ -8,3 +8,13 @@ don't
 know
 dog
 types
+pikachu
+charmander
+squirtle
+bulbasaur
+charmelon
+charizard
+ivysaur
+venasaur
+wartortle
+blastoise
