@@ -7,3 +7,6 @@ jaguar
 cheetah
 kitty
 hello
+hiya
+hola
+hi
