@@ -14,3 +14,4 @@ ivysaur
 venasaur
 wartortle
 blastoise
+bulldog
