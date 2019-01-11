@@ -3,5 +3,10 @@ canine
 wolf
 bark
 bow wow
-I have no dogs
 shi-tsu
+pikachu
+bulbasaur
+charmelon
+charizard
+wartortle
+blastoise
