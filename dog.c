@@ -3,4 +3,13 @@ canine
 wolf
 bark
 bow wow
-german sheppard
+pikachu
+charmander
+squirtle
+bulbasaur
+charmelon
+charizard
+ivysaur
+venasaur
+wartortle
+blastoise
