@@ -13,3 +13,7 @@ ivysaur
 venasaur
 wartortle
 blastoise
+shih tzu
+chow chow
+samoyed
+retriever
