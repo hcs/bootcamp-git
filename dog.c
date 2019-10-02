@@ -5,3 +5,6 @@ bark
 bow wow
 big
 small
+
+pikachu
+charmand
