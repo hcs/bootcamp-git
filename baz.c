@@ -1,1 +1,2 @@
 baz
+new line
